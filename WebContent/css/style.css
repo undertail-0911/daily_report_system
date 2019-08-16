@@ -143,7 +143,9 @@ table#report_list .report_action {
     color: #155724;
     background-color: #d4edda;
 }
-
+pre {
+    font-family: "Hiragino Kaku Gothic Pro",Meiryo,"MS PGothic",Helvetica,Arial,sans-serif;
+}
 
 
 
