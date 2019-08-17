@@ -7,7 +7,7 @@
                 <h2>日報 編集ページ</h2>
                 <form method="POST" action="<c:url value='/reports/update' />">
                     <c:import url="_form.jsp" />
-                </form>"
+                </form>
             </c:when>
             <c:otherwise>
                 <h2>お探しのデータは見つかりませんでした。</h2>
